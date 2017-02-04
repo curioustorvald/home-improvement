@@ -1,1 +1,1 @@
-Just for fun.
+## Issue tracker for houseworks
